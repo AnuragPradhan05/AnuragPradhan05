@@ -1,5 +1,8 @@
 # Hi, I'm Anurag 👋
 
+🎯 Actively seeking internships & software development roles
+
+
 🎓 **B.Tech in Electrical & Electronics Engineering**  
 📍 Silicon University, Bhubaneswar  
 📊 **CGPA:** 8.9  
