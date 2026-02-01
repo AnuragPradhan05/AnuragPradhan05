@@ -5,7 +5,7 @@
 
 🎓 **B.Tech in Electrical & Electronics Engineering**  
 📍 Silicon University, Bhubaneswar  
-📊 **CGPA:** 8.9  
+📊 **CGPA:** 8.72  
 
 💻 **Full-stack developer** with hands-on experience in building real-world web applications and REST APIs.
 
