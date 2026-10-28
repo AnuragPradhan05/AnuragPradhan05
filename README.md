@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AnuragPradhan05&label=Profile+Views&color=FF003C&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=AnuragPradhan05&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-FF003C?style=for-the-badge&logo=target&logoColor=white" alt="open to work" />
 
