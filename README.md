@@ -80,72 +80,8 @@ const anurag = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌸 Bloomify</h3>
-      Interactive bouquet customization app with real-time customization and a smooth, animated UI.
-      <br/><br/>
-      <b>Stack:</b> React · Firebase Firestore · Framer Motion
-      <br/><br/>
-      <a href="https://bloomify-ashen.vercel.app/">🔗 Live Demo</a> ·
-      <a href="https://github.com/AnuragPradhan05/Bloomify">💻 Code</a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🚚 Transport Management System</h3>
-      Logistics platform for driver, vehicle and consignment tracking with optimized relational schemas.
-      <br/><br/>
-      <b>Stack:</b> Angular · Spring Boot · PostgreSQL
-      <br/><br/>
-      <a href="https://github.com/Motuitionapplication/JrTransportManagement-BackEnd-Spring">⚙️ Backend</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Patient Visit History API</h3>
-      Secure REST API with JWT authentication, role-based access control, search and dynamic filtering, centralized exception handling and Swagger documentation.
-      <br/><br/>
-      <b>Stack:</b> Python · FastAPI · SQLite · JWT
-      <br/><br/>
-      <a href="https://github.com/AnuragPradhan05/patient-history-management-api">💻 Code</a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>💼 SmartBiz</h3>
-      Business management system with role-based dashboards and CRUD operations on employee data.
-      <br/><br/>
-      <b>Stack:</b> Angular · Spring Boot
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Portfolio</h3>
-      My personal portfolio website.
-      <br/><br/>
-      <b>Stack:</b> React · CSS · JavaScript
-      <br/><br/>
-      <a href="https://anuragsite-five.vercel.app/">🔗 Live Demo</a> ·
-      <a href="https://github.com/AnuragPradhan05/Portfolio">💻 Code</a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🐍 Python Projects</h3>
-      Python projects including a classic
-      <a href="https://github.com/AnuragPradhan05/Snake_game">Snake Game</a>.
-      <br/><br/>
-      <b>Stack:</b> Python
-      <br/><br/>
-      <a href="https://github.com/AnuragPradhan05/python_projects">💻 Code</a>
-    </td>
-  </tr>
-</table>
-
----
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🌸 Bloomify</h3> Interactive bouquet customization app with real-time customization and smooth, animated UI. <br/><br/> <b>Stack:</b> React · Firebase Firestore · Framer Motion<br/><br/> <a href="https://bloomify-ashen.netlify.app/">🔗 Live Demo</a> · <a href="https://github.com/AnuragPradhan05/Bloomify">💻 Code</a> </td> <td width="50%" valign="top"> <h3>🚚 Transport Management System</h3> Logistics platform for driver, vehicle and consignment tracking with optimized relational schemas. <br/><br/> <b>Stack:</b> Angular · Spring Boot · PostgreSQL<br/><br/> <a href="https://github.com/Motuitionapplication/JrTransportManagement-BackEnd-Spring">⚙️ Backend</a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🏥 Patient Visit History API</h3> Secure REST API with JWT authentication, role-based access control, search & dynamic filtering, centralized exception handling and Swagger docs. <br/><br/> <b>Stack:</b> Python · FastAPI · SQLite · JWT<br/><br/> <a href="https://github.com/AnuragPradhan05/patient-history-management-api">💻 Code</a> </td> <td width="50%" valign="top"> <h3>💼 SmartBiz</h3> Business management system with role-based dashboards and CRUD operations on employee data. <br/><br/> <b>Stack:</b> Angular · Spring Boot </td> </tr> <tr> <td width="50%" valign="top"> <h3>🎨 Portfolio</h3> My personal portfolio website.<br/><br/> <b>Stack:</b> HTML · CSS · JavaScript<br/><br/> <a href="https://github.com/AnuragPradhan05/Portfolio">💻 Code</a> </td> <td width="50%" valign="top"> <h3>🐍 Python Projects</h3> Python projects including a classic <a href="https://github.com/AnuragPradhan05/Snake_game">Snake Game</a>.<br/><br/> <b>Stack:</b> Python<br/><br/> <a href="https://github.com/AnuragPradhan05/python_projects">💻 Code</a> </td> </tr> </table>
 
 ## 🌱 Experience
 
