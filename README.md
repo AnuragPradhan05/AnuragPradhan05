@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_USERNAME with your GitHub username -->
-
 <!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
 
@@ -11,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=AnuragPradhan05&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-success?style=for-the-badge&logo=target&logoColor=white" alt="open to work" />
 
 </div>
@@ -24,7 +22,7 @@
 const anurag = {
   role: "Full-Stack Developer",
   education: "B.Tech in Electrical & Electronics Engineering @ Silicon University, Bhubaneswar (2023–2027)",
-  cgpa: 8.67,
+  cgpa: 8.72,
   location: "Odisha, India 📍",
   currentlyBuilding: "Scalable web apps with Angular, React, Spring Boot & FastAPI",
   startup: "Co-Founder @ Tikli — a mental wellness platform",
@@ -83,15 +81,14 @@ const anurag = {
       <br/><br/>
       <b>Stack:</b> React · Firebase Firestore · Framer Motion<br/><br/>
       <a href="https://bloomify-ashen.vercel.app">🔗 Live Demo</a> ·
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">💻 Code</a>
+      <a href="https://github.com/AnuragPradhan05/Bloomify">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚚 Transport Management System</h3>
       Logistics platform for driver, vehicle and consignment tracking with optimized relational schemas.
       <br/><br/>
       <b>Stack:</b> Angular · Spring Boot · PostgreSQL<br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/FRONTEND_REPO">💻 Frontend</a> ·
-      <a href="https://github.com/YOUR_USERNAME/BACKEND_REPO">⚙️ Backend</a>
+      <a href="https://github.com/Motuitionapplication/JrTransportManagement-BackEnd-Spring">⚙️ Backend</a>
     </td>
   </tr>
   <tr>
@@ -100,22 +97,27 @@ const anurag = {
       Secure REST API with JWT authentication, role-based access control, search & dynamic filtering, centralized exception handling and Swagger docs.
       <br/><br/>
       <b>Stack:</b> Python · FastAPI · SQLite · JWT<br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">💻 Code</a>
+      <a href="https://github.com/AnuragPradhan05/patient-history-management-api">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 SmartBiz</h3>
       Business management system with role-based dashboards and CRUD operations on employee data.
       <br/><br/>
-      <b>Stack:</b> Angular · Spring Boot<br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">💻 Code</a>
+      <b>Stack:</b> Angular · Spring Boot
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🍽 Blue Apron Clone</h3>
-      MERN stack food-delivery application.<br/><br/>
-      <b>Stack:</b> MongoDB · Express.js · React · Node.js ·
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">💻 Code</a>
+    <td width="50%" valign="top">
+      <h3>🎨 Portfolio</h3>
+      My personal portfolio website.<br/><br/>
+      <b>Stack:</b> HTML · CSS · JavaScript<br/><br/>
+      <a href="https://github.com/AnuragPradhan05/Portfolio">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Python Projects</h3>
+      Python projects including a classic <a href="https://github.com/AnuragPradhan05/Snake_game">Snake Game</a>.<br/><br/>
+      <b>Stack:</b> Python<br/><br/>
+      <a href="https://github.com/AnuragPradhan05/python_projects">💻 Code</a>
     </td>
   </tr>
 </table>
@@ -148,12 +150,12 @@ const anurag = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnuragPradhan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPradhan05&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=AnuragPradhan05&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragPradhan05&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
@@ -163,7 +165,7 @@ const anurag = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/AnuragPradhan05/AnuragPradhan05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -173,8 +175,8 @@ const anurag = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anurag-pradhan-5b398130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:prdhananurag2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/anurag-pradhan-5b398130a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/prdhananurag2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 <a href="https://tikliapp.com"><img src="https://img.shields.io/badge/Tikli-Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tikli" /></a>
 
 <br/><br/>
