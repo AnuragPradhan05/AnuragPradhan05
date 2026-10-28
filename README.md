@@ -80,7 +80,7 @@ const anurag = {
       Interactive bouquet customization app with real-time customization and smooth, animated UI.
       <br/><br/>
       <b>Stack:</b> React · Firebase Firestore · Framer Motion<br/><br/>
-      <a href="https://bloomify-ashen.vercel.app">🔗 Live Demo</a> ·
+      <a href="https://bloomify-ashen.netlify.app/">🔗 Live Demo</a> ·
       <a href="https://github.com/AnuragPradhan05/Bloomify">💻 Code</a>
     </td>
     <td width="50%" valign="top">
@@ -150,7 +150,39 @@ const anurag = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnuragPradhan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest[snake.yml](https://github.com/user-attachments/files/34086955/snake.yml)
+
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+username=AnuragPradhan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPradhan05&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=AnuragPradhan05&theme=tokyonight&hide_border=true" alt="streak" />
@@ -168,6 +200,37 @@ const anurag = {
 <img src="https://raw.githubusercontent.com/AnuragPradhan05/AnuragPradhan05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
@@ -185,4 +248,4 @@ const anurag = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
-</div>
+</div>[Uploading snake.yml…]()
