@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,50:5B0000,100:FF003C&height=220&section=header&text=Anurag%20Pradhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anurag+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;Angular+%7C+React+%7C+Spring+Boot+%7C+FastAPI;Co-Founder+%40+Tikli+%F0%9F%8C%B1;Actively+seeking+internships+%26+SDE+roles+%F0%9F%8E%AF" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AnuragPradhan05&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -20,26 +16,11 @@
 
 ## 👨‍💻 About Me
 
-```js
-const anurag = {
-  role: "Full-Stack Developer",
-  education:
-    "B.Tech in Electrical & Electronics Engineering @ Silicon University, Bhubaneswar (2023–2027)",
-  cgpa: 8.72,
-  location: "Odisha, India 📍",
-  currentlyBuilding:
-    "Scalable web apps with Angular, React, Spring Boot & FastAPI",
-  startup: "Co-Founder @ Tikli — a mental wellness platform",
-  lookingFor: ["Internships", "Software Development Roles"],
-  funFact:
-    "EEE student who fell in love with full-stack development ⚡"
-};
-```
+Full-stack developer and EEE student at Silicon University, building web apps with Angular, React, Spring Boot and FastAPI. I’m based in Odisha, India, and co-founded Tikli, a mental wellness platform.
 
-- 🔭 Building production-style apps with **REST APIs, JWT auth, RBAC & clean database design**
-- 🌱 Exploring system design, deployment pipelines & backend architecture
-- 🤝 Open to collaborating on web projects and startups
-- 💬 Ask me about **Angular, Spring Boot, FastAPI, React, PostgreSQL**
+- **Currently:** Building production-style web apps
+- **Interested in:** Internships and software development roles
+- **Focus:** REST APIs, authentication and backend architecture
 
 ---
 
@@ -109,26 +90,6 @@ Completed Spring Boot (Java) + Angular Full Stack Industrial Development Trainin
 Co-founded a psychology-based engagement platform. Designed the *Tikli Challenge* interactive series and the *Know Yourself* personality assessment.
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnuragPradhan05&show_icons=true&theme=dark&title_color=FF003C&icon_color=FF003C&text_color=E6E6E6&bg_color=0D0000&hide_border=true&count_private=true" alt="GitHub stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPradhan05&layout=compact&theme=dark&title_color=FF003C&text_color=E6E6E6&bg_color=0D0000&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AnuragPradhan05&theme=dark&background=0D0000&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FF003C&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragPradhan05&bg_color=0D0000&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-
-</div>
 
 ---
 
